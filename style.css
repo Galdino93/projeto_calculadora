@@ -1,0 +1,16 @@
+
+form {
+    color: rgb(0, 0, 0);
+}
+input{
+    font-size: 15px;
+    color:goldenrod ;
+}
+h2 {
+    font-size: 20px;
+    font-weight: 200;
+}
+input.button{
+    border: 2px solid red;
+    border-radius: 5px;
+}
